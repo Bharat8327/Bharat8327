@@ -36,7 +36,7 @@
 
 
 ## 🧑‍🤝‍🧑Connect with me
-For questions or feedback, you can reach me at [bharat832796@gmail.com](mailto:navratan091@gmail.com). <br><br>
+For questions or feedback, you can reach me at [bharat832796@gmail.com](mailto:bharat83967@gmail.com). <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-patell-203a62257/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharat8327)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bharat_patell9_/?next=%2Femails%2Femails_sent)
