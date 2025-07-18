@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
    &nbsp;&nbsp;&nbsp;<img src='https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif' height=230 width=300 align='right'>
 
-- 🌱 I’m currently 3rd Year CSE Student At **Arya College Of Engineering & IT,kukas jaipur**
+- 🌱 I’m currently Final Year CSE Student At **Arya College Of Engineering & IT,kukas jaipur**
 
 <!---  - 💡   Exploring the Programming World and Enhancing Problem-Solving Skills!  -->
 - ⚡  **Exploring the programming world to learn more!!**
