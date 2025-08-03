@@ -1,7 +1,7 @@
 
 <p align="center"> <h1 align="center"> Hello Friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, </a> </h1> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&pause=1000&color=007EF7&center=true&vCenter=true&width=435&lines=I'm+Bharat;Passionate+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&pause=1000&color=007EF7&center=true&vCenter=true&width=435&lines=I'm+Bharat+Patel;Passionate+Coder)](https://git.io/typing-svg)
 
 
 ## 🧑‍💻 About Me
